@@ -23,7 +23,7 @@ We bring in a third domain: clear, in-air (atmospheric) images. These act as an 
 One extra encoder. One new loss term. The original UIESS architecture stays intact.
 
 <p align="center">
-  <img src="UIESS-master/asset/demo.png" width="600"/>
+  <img src="UIESS-master/asset/image.png" width="600"/>
   <br>
   <em>Input → UIESS → Ours (proposed). The atmosphere-guided approach recovers more natural colors with fewer artifacts.</em>
 </p>
@@ -53,7 +53,7 @@ L_atm = || Z_S→C − Z_A ||_1
 turns relative style alignment into absolute style alignment. Training is more stable, color correction is more accurate.
 
 <p align="center">
-  <img src="UIESS-master/asset/model.png" width="550"/>
+  <img src="UIESS-master/asset/architecture_new.png" width="550"/>
   <br>
   <em>Framework overview. Atmosphere encoder added on top of the original UIESS pipeline.</em>
 </p>
