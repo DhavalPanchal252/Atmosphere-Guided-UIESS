@@ -4,6 +4,8 @@ venv/
 env/
 Notes
 UIESS-master.zip
+
+.gitignore
 # Python cache/build
 __pycache__/
 *.py[cod]
@@ -24,7 +26,7 @@ UIESS-master.zip
 # Large datasets (local)
 UIEB_Dataset/
 EUVP
-
+output/
 # Generated training data/evaluation assets
 UIESS-master/data/
 UIESS-master/eval_results.txt
