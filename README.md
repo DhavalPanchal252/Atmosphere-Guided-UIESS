@@ -140,7 +140,7 @@ UIESS/
 │   └── testB_label/
 ```
 
-Download: [UIEB](https://li-chongyi.github.io/proj_benchmark.html) · [EUVP](http://irvlab.cs.umn.edu/resources/euvp-dataset) · [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+Download: [UIEB](https://li-chongyi.github.io/proj_benchmark.html) · [EUVP](http://irvlab.cs.umn.edu/resources/euvp-dataset) · [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) · [SQUID](https://zenodo.org/records/5744037)
 
 ### Training
 
