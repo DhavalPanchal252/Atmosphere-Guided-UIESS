@@ -53,7 +53,7 @@ L_atm = || Z_S→C − Z_A ||_1
 turns relative style alignment into absolute style alignment. Training is more stable, color correction is more accurate.
 
 <p align="center">
-  <img src="UIESS-master/asset/architecture_new.png" width="550"/>
+  <img src="UIESS-master/asset/architecture_new.png"/>
   <br>
   <em>Framework overview. Atmosphere encoder added on top of the original UIESS pipeline.</em>
 </p>
