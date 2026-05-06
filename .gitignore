@@ -32,6 +32,10 @@ UIESS-master/data/
 UIESS-master/eval_results.txt
 UIESS-master/metrics.txt
 
+UIESS-master/demo.ipynb
+UIESS-master/kaggle_notebook.ipynb
+UIESS-master/version3.ipynb
+UIESS-master/testing_Using_pretrainedModels.ipynb
 # Generated outputs and local runs
 images/output/
 images/debug_run/
